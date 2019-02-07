@@ -18,10 +18,13 @@ https://github.com/data2health/project-repo-template
 https://drive.google.com/drive/u/0/folders/1vLp-H32KTNobiZF2cK82At90S6dVJNUf
 
 ## Slack room
-https://cd2h.slack.com/messages/C9D9SQWEQ; available to people who have onboarded to CD2H.
+https://cd2h.slack.com/messages/C9D9SQWEQ; available to people who have onboarded to CD2H, whether from a CD2H institution or beyond. Onboard at bit.ly/cd2h-onboarding-form
 
 ## Get involved
 We encourage the community to get involved; details available [here](https://github.com/data2health/project-repo-template/blob/master/engagement.md).
 
 ## Evaluation
 This project will be evaluated on the basis of how easily it is understood by members of the CD2H team who need to make their own similar repositories. Additional details available [here](https://github.com/data2health/project-repo-template/blob/master/evaluation.md).
+
+# Expected outputs:
+A report on XYZ; see https://github.com/data2health/project-repo-template/milestone/2
