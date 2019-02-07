@@ -14,14 +14,14 @@ OHSU | Julie McMurry (@jmcmurry) | Melissa Haendel (@mellybelly)
 ## Repositories
 https://github.com/data2health/project-repo-template
 
+## Get involved
+We encourage the community to get involved; onboarding details available [here](https://github.com/data2health/project-repo-template/blob/master/engagement.md).
+
 ## Working documents
-https://drive.google.com/drive/u/0/folders/1vLp-H32KTNobiZF2cK82At90S6dVJNUf
+[The project Google drive folder](https://drive.google.com/drive/u/0/folders/1vLp-H32KTNobiZF2cK82At90S6dVJNUf) is accessible to onboarded participants.
 
 ## Slack room
-https://cd2h.slack.com/messages/C9D9SQWEQ; available to people who have onboarded to CD2H, whether from a CD2H institution or beyond. Onboard at bit.ly/cd2h-onboarding-form
-
-## Get involved
-We encourage the community to get involved; details available [here](https://github.com/data2health/project-repo-template/blob/master/engagement.md).
+[The project slack room](https://cd2h.slack.com/messages/C9D9SQWEQ) is accessible to onboarded participants.
 
 ## Evaluation
 This project will be evaluated on the basis of how easily it is understood by members of the CD2H team who need to make their own similar repositories. Additional details available [here](https://github.com/data2health/project-repo-template/blob/master/evaluation.md).
