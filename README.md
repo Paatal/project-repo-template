@@ -12,8 +12,10 @@ Lead site | Point person | Responsible PI
 OHSU | Julie McMurry (@jmcmurry) | Melissa Haendel (@mellybelly)
 
 ## Repositories
-https://github.com/data2health/project-repo-template
-If you have a private repo, list the link here and indicate what kinds of participants are given access.
+- https://github.com/data2health/project-repo-template
+- https://github.com/data2health/operations
+
+Note: If you have a private repo, list the link here and indicate what kinds of participants are given access.
 
 ## Get involved
 We encourage the community to get involved; onboarding details available [here](https://github.com/data2health/project-repo-template/blob/master/engagement.md).
