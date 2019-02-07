@@ -26,5 +26,5 @@ We encourage the community to get involved; onboarding details available [here](
 ## Evaluation
 This project will be evaluated on the basis of how easily it is understood by members of the CD2H team who need to make their own similar repositories. Additional details available [here](https://github.com/data2health/project-repo-template/blob/master/evaluation.md).
 
-# Expected outputs:
+# Expected outputs
 A report on XYZ; see https://github.com/data2health/project-repo-template/milestone/2
