@@ -5,11 +5,23 @@ Note: This is still a work in progress.
 ## Problem statement
 Before this example repo, team members had a hard time understanding the expectations for what the repo and associated milestones should look like. This repo provides a concrete (though abstracted) instantiation.
 
-## Leads
+## Point persons
 
-Lead site | Point person | Responsible PI
+Point person | Site | Responsible PI
 ----------|--------------|---------------
-OHSU | Julie McMurry (@jmcmurry) | Melissa Haendel (@mellybelly)
+Julie McMurry (@jmcmurry) | OHSU | Melissa Haendel (@mellybelly)
+
+## Leads 
+
+Lead(s) | Site
+----------|--------------|
+Julie McMurry (@jmcmurry) | OHSU
+
+## Team members 
+
+Members(s) | Site
+----------|--------------|
+Julie McMurry (@jmcmurry) | OHSU
 
 ## Repositories
 - https://github.com/data2health/project-repo-template
