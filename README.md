@@ -5,7 +5,7 @@ Note: This is still a work in progress.
 ## Problem statement
 Before this example repo, team members had a hard time understanding the expectations for what the repo and associated milestones should look like. This repo provides a concrete (though abstracted) instantiation.
 
-Your problem statement should be in the form of: What can CTSAs/the community not do now, that would be addressed by this project's success?
+Please include a Project Statement on your landing page. Your problem statement should be in the form of: What can CTSAs/the community not do now, that would be addressed by this project's success? A problem statement should be a clear vision and the overall method that will be used to solve the problem at hand. 
 
 ## Longer project description
 (we will migrate these from the Project Matrix for you)
