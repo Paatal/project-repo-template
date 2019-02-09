@@ -45,19 +45,6 @@ Example repos:
 - https://github.com/data2health/project-repo-template
 - https://github.com/data2health/operations; private repo editable by members of team @data2health/ops
 
-## Get involved
-We encourage the community to get involved. Please invite any participants to [onboard](http://bit.ly/cd2h-onboarding-form)
-
-We require all CD2H projects to have non-CD2H CTSA participants, as CD2H is a CTSA coordinating center. Each project should include an Engagement plan file, example [here](https://github.com/data2health/project-repo-template/blob/master/engagement.md). 
-
-## Working documents
-Documentation may be natively in Github using the wiki or .md files in the appropriate folder, or in Google Drive.
-[Highlighted key project documentation](FIX ME)
-[The project Google drive folder](https://drive.google.com/drive/u/0/folders/1vLp-H32KTNobiZF2cK82At90S6dVJNUf) is accessible to onboarded participants. 
-
-## Slack room
-[The project slack room](https://cd2h.slack.com/messages/C9D9SQWEQ) is accessible to onboarded participants.
-
 ## Deliverables
 Each project should propose one or more deliverables. Examples: a released code package, a best practices document, a final survey, a set of survey results, etc.
 
@@ -85,6 +72,19 @@ Please reference any of the following that apply:
 - Best practices guides
 
 A separate education.md file or a wiki page are two options to document educational activities and resources associated with the project. Please include an education related milestone where relevant. 
+
+## Get involved
+We encourage the community to get involved. Please invite any participants to [onboard](http://bit.ly/cd2h-onboarding-form)
+
+We require all CD2H projects to have non-CD2H CTSA participants, as CD2H is a CTSA coordinating center. Each project should include an Engagement plan file, example [here](https://github.com/data2health/project-repo-template/blob/master/engagement.md). 
+
+## Working documents
+Documentation may be natively in Github using the wiki or .md files in the appropriate folder, or in Google Drive.
+[Highlighted key project documentation](FIX ME)
+[The project Google drive folder](https://drive.google.com/drive/u/0/folders/1vLp-H32KTNobiZF2cK82At90S6dVJNUf) is accessible to onboarded participants. 
+
+## Slack room
+[The project slack room](https://cd2h.slack.com/messages/C9D9SQWEQ) is accessible to onboarded participants.
 
 
 
