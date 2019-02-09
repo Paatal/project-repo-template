@@ -14,20 +14,20 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum pretium a fe
 
 ## Contact person
 
-We require a contact person for each project for administrative purposes. 
+We require a contact person for each project for administrative purposes. Each project should also have a CD2H Program director assigned.
 
-Point person (github handle) | Site | Responsible PI
+Point person (github handle) | Site | Program Director
 ----------|--------------|---------------
 Julie McMurry (@jmcmurry) | OHSU | Melissa Haendel (@mellybelly)
 
 ## Leads 
 
-Project scientific leadership, should be 1-3 persons. Each project should also have a CD2H Program director assigned.
+Project scientific leadership, should be 1-3 persons. 
 
 Lead(s) (github handle) | Site
 ----------|--------------|
 Julie McMurry (@jmcmurry) | OHSU 
-Melissa Haendel (PD) (@mellybelly) | OHSU
+
 
 ## Team members 
 
