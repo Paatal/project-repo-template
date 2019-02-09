@@ -38,7 +38,7 @@ Connor Cook (@cgcook) | OHSU
 
 ## Repositories
 
-List any Github repositories associated with the project. Each project requires at least one repository to house the administrative tracking and public information. You can either add this information to an existing repository, or create a new one and list the associated repositories below. Please be sure to tag any repositories not under the data2health organization with 'data2health'. Project repositories must be public. Some repositories may be private for sensitivity or operational reasons. 
+List any Github repositories associated with the project. Each project requires at least one repository to house the administrative tracking and public information. You can either add this information to an existing repository, or create a new one and list the associated repositories below. Please be sure to tag any repositories not under the data2health organization with the topic 'data2health'. Project repositories must be public. Some repositories may be private for sensitivity or operational reasons. 
 
 Example repos:
 - https://github.com/data2health/project-repo-template
