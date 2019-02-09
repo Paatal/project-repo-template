@@ -59,8 +59,15 @@ Documentation may be natively in Github using the wiki or .md files in the appro
 ## Evaluation
 This project will be evaluated on the basis of how easily it is understood by members of the CD2H team who need to make their own similar repositories. Additional details available [here](https://github.com/data2health/project-repo-template/blob/master/evaluation.md).
 
+Each project should propose a set of evaluation measures. These will be reviewed by the Evaluation committee and approved by the Program Directors and NCATS. The Evaluation committee will meet with each Project team leads to assist.
+
 # Expected outputs
 A report on XYZ; see https://github.com/data2health/project-repo-template/milestone/2
+
+# Milestones and issues instructions 
+Each project should propose one or more deliverables. Each deliverable is represented as a Milestone, but not all Milestones need be deliverables. Please make approximately 4-8 milestones for each project, with dates for at least three of them prior to August 31st. Examples: a released code package, a best practices document, a final survey, a set of survey results, etc. Partially completed deliverables are acceptable: beta release of software, # interviews performed, 75% coverage, etc. 
+
+Each deliverable must have at least one issue (aka 'ticket'), each issue should be assigned to a person, preferably only one though this may change. Issues with checklists showing degree of completion are also acceptable.
 
 # Education
 This project provides an introductory Github tutorial for project management purposes. 
@@ -69,6 +76,6 @@ Please reference any of the following that apply:
 - Educational opportunities (please indicate for which type of learner and how to participate
 - Best practices guides
 
-# Milestones Instructions
+
 
 
