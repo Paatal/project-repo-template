@@ -7,7 +7,7 @@ Before this example repo, team members had a hard time understanding the expecta
 
 Please include a Project Statement on your landing page. Your problem statement should be in the form of: What can CTSAs/the community not do now, that would be addressed by this project's success? A problem statement should be a clear vision and the overall method that will be used to solve the problem at hand. 
 
-## Longer project description
+## Project description
 (we will migrate these from the Project Matrix for you)
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum pretium a felis non scelerisque. Etiam molestie nisi ut mi viverra dictum. Nunc et tempor quam. Maecenas a viverra sapien. Aliquam lacinia sagittis lorem ac sodales. Fusce justo mi, cursus sed metus sed, ornare vestibulum mauris. Donec in orci ornare, facilisis nisl ut, congue libero.
@@ -22,11 +22,12 @@ Julie McMurry (@jmcmurry) | OHSU | Melissa Haendel (@mellybelly)
 
 ## Leads 
 
-Scientific leadership, should be 1-3 persons. 
+Project scientific leadership, should be 1-3 persons. Each project should also have a CD2H Program director assigned.
 
 Lead(s) (github handle) | Site
 ----------|--------------|
-Julie McMurry (@jmcmurry) | OHSU
+Julie McMurry (@jmcmurry) | OHSU 
+Melissa Haendel (PD) (@mellybelly) | OHSU
 
 ## Team members 
 
