@@ -30,6 +30,9 @@ Members(s) | Site
 Julie McMurry (@jmcmurry) | OHSU
 
 ## Repositories
+
+Please be sure to tag any repositories not under the data2health organization with 'data2health'.
+Example repos:
 - https://github.com/data2health/project-repo-template
 - https://github.com/data2health/operations; private repo editable by members of team @data2health/ops
 
