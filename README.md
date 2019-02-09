@@ -39,15 +39,16 @@ Connor Cook (@cgcook) | OHSU
 
 ## Repositories
 
-List any Github repositories associated with the project. Each project requires at least one repository to house the administrative tracking and public information. You can either add this information to an existing repository, or create a new one and list the associated repositories below. Please be sure to tag any repositories not under the data2health organization with the topic 'data2health'. Project repositories must be public. Some repositories may be private for sensitivity or operational reasons. 
+List Github repositories associated with the project. Each project requires at least one repository to house the administrative tracking and public information. You can either add this information to an existing repository, or create a new one and list the associated repositories below. Please be sure to tag any repositories not under the data2health organization with the topic 'data2health'. Project repositories must be public. Some repositories may be private for sensitivity or operational reasons. 
 
 Example repos:
 - https://github.com/data2health/project-repo-template
 - https://github.com/data2health/operations; private repo editable by members of team @data2health/ops
 
 ## Get involved
-We encourage the community to get involved; onboarding details available [here](https://github.com/data2health/project-repo-template/blob/master/engagement.md).
-We require all CD2H projects to have non-CD2H CTSA participants, as CD2H is a CTSA coordinating center. 
+We encourage the community to get involved. Please invite any participants to [onboard](bit.ly/cd2h-onboarding-form)
+
+We require all CD2H projects to have non-CD2H CTSA participants, as CD2H is a CTSA coordinating center. Each project should include an Engagement plan file, example [here](https://github.com/data2health/project-repo-template/blob/master/engagement.md). 
 
 ## Working documents
 Documentation may be natively in Github using the wiki or .md files in the appropriate folder, or in Google Drive.
@@ -57,26 +58,31 @@ Documentation may be natively in Github using the wiki or .md files in the appro
 ## Slack room
 [The project slack room](https://cd2h.slack.com/messages/C9D9SQWEQ) is accessible to onboarded participants.
 
+## Deliverables
+Each project should propose one or more deliverables. Examples: a released code package, a best practices document, a final survey, a set of survey results, etc.
+
+## Milestones 
+Each deliverable is represented as a Milestone, but not all Milestones need be deliverables. For example, see this 'report on XYZ' is a [Deliverable Milestone](https://github.com/data2health/project-repo-template/milestone/2)
+
+Please create 4-8 Milestones for each project, with dates prior to August 31st.  Milestones for partially completed deliverables are acceptable: beta release of software, # interviews performed, 75% coverage, etc. 
+
+Each Milestone must have at least one Issue (aka 'ticket'), each issue should be assigned to a person, preferably one at a time; reassignments are fine. Issues with checklists showing degree of completion are also acceptable, see [example](https://github.com/data2health/project-repo-template/issues/2).
+
 ## Evaluation
-This project will be evaluated on the basis of how easily it is understood by members of the CD2H team who need to make their own similar repositories. Additional details available [here](https://github.com/data2health/project-repo-template/blob/master/evaluation.md).
+This project will be evaluated on the basis of how easily it is understood by members of the CD2H team who need to make their own similar repositories. 
 
-Each project should propose a set of evaluation measures. These will be reviewed by the Evaluation committee and approved by the Program Directors and NCATS. The Evaluation committee will meet with each Project team leads to assist.
+Each project should propose a set of evaluation measures, recorded in a separate Evaluation Plan file, for example [here](https://github.com/data2health/project-repo-template/blob/master/evaluation.md).These will be reviewed by the Evaluation committee and approved by the Program Directors and NCATS. The Evaluation committee will meet with each Project team leads to assist. 
 
-# Expected outputs
-A report on XYZ; see https://github.com/data2health/project-repo-template/milestone/2
+Each project should have one or more Evaluation realated Milestones, see [Example Evaluation Milstone] (https://github.com/data2health/project-repo-template/issues/5)
 
-# Milestones and issues instructions 
-Each project should propose one or more deliverables. Each deliverable is represented as a Milestone, but not all Milestones need be deliverables. Please make approximately 4-8 milestones for each project, with dates for at least three of them prior to August 31st. Examples: a released code package, a best practices document, a final survey, a set of survey results, etc. Partially completed deliverables are acceptable: beta release of software, # interviews performed, 75% coverage, etc. 
-
-Each deliverable must have at least one issue (aka 'ticket'), each issue should be assigned to a person, preferably only one though this may change. Issues with checklists showing degree of completion are also acceptable.
-
-# Education
+## Education
 This project provides an introductory Github tutorial for project management purposes. 
 Please reference any of the following that apply: 
 - Educational resources that will be generated (these can be milestones and/or files in the repo)
 - Educational opportunities (please indicate for which type of learner and how to participate
 - Best practices guides
 
+A separate education.md file or a wiki page are two options to document educational activities and resources associated with the project. Please include an education related milestone where relevant. 
 
 
 
