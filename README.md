@@ -5,6 +5,8 @@ Note: This is still a work in progress.
 ## Problem statement
 Before this example repo, team members had a hard time understanding the expectations for what the repo and associated milestones should look like. This repo provides a concrete (though abstracted) instantiation.
 
+Your problem statement should be in the form of: What can CTSAs/the community not do now, that would be addressed by this project's success?
+
 ## Contact person
 
 We require a contact person for administrative purposes. 
