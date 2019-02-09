@@ -23,7 +23,7 @@ Julie McMurry (@jmcmurry) | OHSU
 
 ## Team members 
 
-Include any members considered part of the project team - internal to CD2H sites and commuinity members.
+Include any members considered part of the project team - internal to CD2H sites and community members.
 
 Members(s) | Site
 ----------|--------------|
@@ -50,3 +50,11 @@ This project will be evaluated on the basis of how easily it is understood by me
 
 # Expected outputs
 A report on XYZ; see https://github.com/data2health/project-repo-template/milestone/2
+
+# Education
+This project provides an introductory Github tutorial for project management purposes. 
+Please reference any of the following that apply: 
+- Educational resources that will be generated (these can be milestones and/or files in the repo)
+- Educational opportunities (please indicate for which type of learner and how to participate
+- Best practices guides
+
