@@ -71,7 +71,7 @@ Each Milestone must have at least one Issue (aka 'ticket'), each issue should be
 ## Evaluation
 This project will be evaluated on the basis of how easily it is understood by members of the CD2H team who need to make their own similar repositories. 
 
-Each project should propose a set of evaluation measures, recorded in a separate Evaluation Plan file, for example [here](https://github.com/data2health/project-repo-template/blob/master/evaluation.md).These will be reviewed by the Evaluation committee and approved by the Program Directors and NCATS. The Evaluation committee will meet with each Project team leads to assist. 
+Each project should propose a set of evaluation measures, recorded in a separate Evaluation Plan file, for example [here](https://github.com/data2health/project-repo-template/blob/master/evaluation.md). These will be reviewed by the Evaluation committee and approved by the Program Directors and NCATS. The Evaluation committee will meet with each Project team leads to assist. 
 
 Each project should have one or more Evaluation realated Milestones, see [Example Evaluation Milstone] (https://github.com/data2health/project-repo-template/issues/5)
 
@@ -79,7 +79,7 @@ Each project should have one or more Evaluation realated Milestones, see [Exampl
 This project provides an introductory Github tutorial for project management purposes. 
 Please reference any of the following that apply: 
 - Educational resources that will be generated (these can be milestones and/or files in the repo)
-- Educational opportunities (please indicate for which type of learner and how to participate
+- Educational opportunities (please indicate for which type of learner and how to participate)
 - Best practices guides
 
 A separate education.md file or a wiki page are two options to document educational activities and resources associated with the project. Please include an education related milestone where relevant. 
