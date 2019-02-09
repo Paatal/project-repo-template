@@ -5,7 +5,9 @@ Note: This is still a work in progress.
 ## Problem statement
 Before this example repo, team members had a hard time understanding the expectations for what the repo and associated milestones should look like. This repo provides a concrete (though abstracted) instantiation.
 
-## Point persons
+## Contact person
+
+We require a contact person for administrative purposes. 
 
 Point person | Site | Responsible PI
 ----------|--------------|---------------
@@ -13,11 +15,15 @@ Julie McMurry (@jmcmurry) | OHSU | Melissa Haendel (@mellybelly)
 
 ## Leads 
 
+Scientific leadership, should be 1-3 persons. 
+
 Lead(s) | Site
 ----------|--------------|
 Julie McMurry (@jmcmurry) | OHSU
 
 ## Team members 
+
+Include any members considered part of the project team - internal to CD2H sites and commuinity members.
 
 Members(s) | Site
 ----------|--------------|
