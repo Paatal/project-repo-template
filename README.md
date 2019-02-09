@@ -68,6 +68,8 @@ Please create 4-8 Milestones for each project, with dates prior to August 31st. 
 
 Each Milestone must have at least one Issue (aka 'ticket'), each issue should be assigned to a person, preferably one at a time; reassignments are fine. Issues with checklists showing degree of completion are also acceptable, see [example](https://github.com/data2health/project-repo-template/issues/2).
 
+Github help on Milestones is [here](https://help.github.com/articles/creating-and-editing-milestones-for-issues-and-pull-requests/)
+
 ## Evaluation
 This project will be evaluated on the basis of how easily it is understood by members of the CD2H team who need to make their own similar repositories. 
 
