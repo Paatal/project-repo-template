@@ -7,11 +7,16 @@ Before this example repo, team members had a hard time understanding the expecta
 
 Your problem statement should be in the form of: What can CTSAs/the community not do now, that would be addressed by this project's success?
 
+## Longer project description
+(we will migrate these from the Project Matrix for you)
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum pretium a felis non scelerisque. Etiam molestie nisi ut mi viverra dictum. Nunc et tempor quam. Maecenas a viverra sapien. Aliquam lacinia sagittis lorem ac sodales. Fusce justo mi, cursus sed metus sed, ornare vestibulum mauris. Donec in orci ornare, facilisis nisl ut, congue libero.
+
 ## Contact person
 
-We require a contact person for administrative purposes. 
+We require a contact person for each project for administrative purposes. 
 
-Point person | Site | Responsible PI
+Point person (github handle) | Site | Responsible PI
 ----------|--------------|---------------
 Julie McMurry (@jmcmurry) | OHSU | Melissa Haendel (@mellybelly)
 
@@ -19,7 +24,7 @@ Julie McMurry (@jmcmurry) | OHSU | Melissa Haendel (@mellybelly)
 
 Scientific leadership, should be 1-3 persons. 
 
-Lead(s) | Site
+Lead(s) (github handle) | Site
 ----------|--------------|
 Julie McMurry (@jmcmurry) | OHSU
 
@@ -27,22 +32,26 @@ Julie McMurry (@jmcmurry) | OHSU
 
 Include any members considered part of the project team - internal to CD2H sites and community members.
 
-Members(s) | Site
+Members(s) (github handle) | Site
 ----------|--------------|
-Julie McMurry (@jmcmurry) | OHSU
+Connor Cook (@cgcook) | OHSU
 
 ## Repositories
 
-Please be sure to tag any repositories not under the data2health organization with 'data2health'.
+List any Github repositories associated with the project. Each project requires at least one repository to house the administrative tracking and public information. You can either add this information to an existing repository, or create a new one and list the associated repositories below. Please be sure to tag any repositories not under the data2health organization with 'data2health'. Project repositories must be public. Some repositories may be private for sensitivity or operational reasons. 
+
 Example repos:
 - https://github.com/data2health/project-repo-template
 - https://github.com/data2health/operations; private repo editable by members of team @data2health/ops
 
 ## Get involved
 We encourage the community to get involved; onboarding details available [here](https://github.com/data2health/project-repo-template/blob/master/engagement.md).
+We require all CD2H projects to have non-CD2H CTSA participants, as CD2H is a CTSA coordinating center. 
 
 ## Working documents
-[The project Google drive folder](https://drive.google.com/drive/u/0/folders/1vLp-H32KTNobiZF2cK82At90S6dVJNUf) is accessible to onboarded participants.
+Documentation may be natively in Github using the wiki or .md files in the appropriate folder, or in Google Drive.
+[Highlighted key project documentation](FIX ME)
+[The project Google drive folder](https://drive.google.com/drive/u/0/folders/1vLp-H32KTNobiZF2cK82At90S6dVJNUf) is accessible to onboarded participants. 
 
 ## Slack room
 [The project slack room](https://cd2h.slack.com/messages/C9D9SQWEQ) is accessible to onboarded participants.
@@ -59,4 +68,7 @@ Please reference any of the following that apply:
 - Educational resources that will be generated (these can be milestones and/or files in the repo)
 - Educational opportunities (please indicate for which type of learner and how to participate
 - Best practices guides
+
+# Milestones Instructions
+
 
