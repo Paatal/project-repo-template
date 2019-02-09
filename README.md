@@ -1,5 +1,7 @@
 # Template for project repositories
-Before this example repo, team members had a hard time understanding the expectations for what the repo and associated milestones should look like. This repo provides a concrete (though abstracted) instantiation.
+Before this example repo, team members had a hard time understanding the expectations for what the repo and associated milestones should look like. This repo provides a concrete (though abstracted) instantiation and provides an introductory Github tutorial for project management purposes. 
+
+This "project" will be evaluated on the basis of how easily it is understood by members of the CD2H team who need to make their own similar repositories. 
 
 ## Problem statement
 Please include a Project Statement on your landing page. Your problem statement should be in the form of: What can CTSAs/the community not do now, that would be addressed by this project's success? A problem statement should be a clear vision and the overall method that will be used to solve the problem at hand. 
@@ -55,14 +57,11 @@ Each Milestone must have at least one Issue (aka 'ticket'), each issue should be
 Github help on Milestones is [here](https://help.github.com/articles/creating-and-editing-milestones-for-issues-and-pull-requests/)
 
 ## Evaluation
-This project will be evaluated on the basis of how easily it is understood by members of the CD2H team who need to make their own similar repositories. 
-
 Each project should propose a set of evaluation measures, recorded in a separate Evaluation Plan file, for example [here](https://github.com/data2health/project-repo-template/blob/master/evaluation.md). These will be reviewed by the Evaluation committee and approved by the Program Directors and NCATS. The Evaluation committee will meet with each Project team leads to assist. 
 
 Each project should have one or more Evaluation realated Milestones, see [Example Evaluation Milstone] (https://github.com/data2health/project-repo-template/issues/5)
 
 ## Education
-This project provides an introductory Github tutorial for project management purposes. 
 Please reference any of the following that apply: 
 - Educational resources that will be generated (these can be milestones and/or files in the repo)
 - Educational opportunities (please indicate for which type of learner and how to participate)
