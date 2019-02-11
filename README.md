@@ -57,20 +57,23 @@ Github help on Milestones is [here](https://help.github.com/articles/creating-an
 ## Evaluation
 Each project should propose a set of evaluation measures, recorded in a separate Evaluation Plan file, for example [here](https://github.com/data2health/project-repo-template/blob/master/evaluation.md). These will be reviewed by the Evaluation committee and approved by the Program Directors and NCATS. The Evaluation committee will meet with each Project team leads to assist. 
 
-Each project should have Evaluation-realated issues, that can be tagged with the "evaluation" tag. see [Example Evaluation Issue] (https://github.com/data2health/project-repo-template/issues/5)
+Each project should have Evaluation-realated issues, that can be tagged with the "evaluation" tag. see [Example Evaluation Issue](https://github.com/data2health/project-repo-template/issues/5)
 
 ## Education
+Each project should propose a set of evaluation measures, recorded in a separate Evaluation Plan file. 
 Please reference any of the following that apply: 
 - Educational resources that will be generated (these can be milestones and/or files in the repo)
 - Educational opportunities (please indicate for which type of learner and how to participate)
 - Best practices guides
 
-A separate education.md file or a wiki page are two options to document educational activities and resources associated with the project. Please include an education related milestone where relevant. 
+Please include education related issues where relevant, tagged with "education". 
 
 ## Get involved
 We encourage the community to get involved. Please invite any participants to [onboard](http://bit.ly/cd2h-onboarding-form)
 
 We require all CD2H projects to have non-CD2H CTSA participants, as CD2H is a CTSA coordinating center. Each project should include an Engagement plan file, example [here](https://github.com/data2health/project-repo-template/blob/master/engagement.md). 
+
+Please tag any engagment related issues with "engagement".
 
 ## Working documents
 Documentation may be natively in Github using the wiki or .md files in the appropriate folder, or in Google Drive.
