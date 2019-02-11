@@ -32,9 +32,7 @@ Julie McMurry (@jmcmurry) | OHSU
 
 Include any members considered part of the project team - internal to CD2H sites and community members.
 
-Members(s) (github handle) | Site
-----------|--------------|
-Connor Cook (@cgcook) | OHSU
+see https://github.com/data2health/project-repo-template/tree/master/team.md
 
 ## Repositories
 
