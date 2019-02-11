@@ -57,7 +57,7 @@ Github help on Milestones is [here](https://help.github.com/articles/creating-an
 ## Evaluation
 Each project should propose a set of evaluation measures, recorded in a separate Evaluation Plan file, for example [here](https://github.com/data2health/project-repo-template/blob/master/evaluation.md). These will be reviewed by the Evaluation committee and approved by the Program Directors and NCATS. The Evaluation committee will meet with each Project team leads to assist. 
 
-Each project should have one or more Evaluation realated Milestones, see [Example Evaluation Milstone] (https://github.com/data2health/project-repo-template/issues/5)
+Each project should have Evaluation-realated issues, that can be tagged with the "evaluation" tag. see [Example Evaluation Issue] (https://github.com/data2health/project-repo-template/issues/5)
 
 ## Education
 Please reference any of the following that apply: 
