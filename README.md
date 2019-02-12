@@ -1,5 +1,5 @@
 # Template for project repositories
-Before this example repo, team members had a hard time understanding the expectations for what the repo and associated milestones should look like. This repo provides a concrete (though abstracted) instantiation and provides an introductory Github tutorial for project management purposes. 
+Before this example repo, team members had a hard time understanding the expectations for what the repo and associated milestones should look like. This repo provides a concrete (though abstracted) instantiation and provides an introductory GitHub tutorial for project management purposes. 
 
 This "project" will be evaluated on the basis of how easily it is understood by members of the CD2H team who need to make their own similar repositories. 
 
@@ -30,9 +30,9 @@ Julie McMurry (@jmcmurry) | OHSU
 
 ## Team members 
 
-Include any members considered part of the project team - internal to CD2H sites and community members.
+No action required here, a list of team members will be imported and linked below.
 
-see https://github.com/data2health/project-repo-template/tree/master/team.md
+See https://github.com/data2health/project-repo-template/tree/master/team.md
 
 ## Repositories
 
@@ -52,7 +52,7 @@ Please create 4-8 Milestones for each project, with dates prior to August 31st. 
 
 Each Milestone must have at least one Issue (aka 'ticket'), each issue should be assigned to a person, preferably one at a time; reassignments are fine. Issues with checklists showing degree of completion are also acceptable, see [example](https://github.com/data2health/project-repo-template/issues/2).
 
-Github help on Milestones is [here](https://help.github.com/articles/creating-and-editing-milestones-for-issues-and-pull-requests/)
+GitHub help on Milestones is [here](https://help.github.com/articles/creating-and-editing-milestones-for-issues-and-pull-requests/)
 
 ## Evaluation
 Each project should propose a set of evaluation measures, recorded in a separate Evaluation Plan file, for example [here](https://github.com/data2health/project-repo-template/blob/master/evaluation.md). These will be reviewed by the Evaluation committee and approved by the Program Directors and NCATS. The Evaluation committee will meet with each Project team leads to assist. 
@@ -76,13 +76,15 @@ We require all CD2H projects to have non-CD2H CTSA participants, as CD2H is a CT
 Please tag any engagment related issues with "engagement".
 
 ## Working documents
-Documentation may be natively in Github using the wiki or .md files in the appropriate folder, or in Google Drive.
+Documentation may be natively in GitHub using the wiki or .md files in the appropriate folder, or in Google Drive.
 [Documentating projects in Github](https://guides.github.com/features/wikis/)
 
 [The project Google drive folder](https://drive.google.com/drive/u/0/folders/1vLp-H32KTNobiZF2cK82At90S6dVJNUf) is accessible to onboarded participants. 
 
 ## Slack room
-[The project slack room](https://cd2h.slack.com/messages/C9D9SQWEQ) is accessible to onboarded participants.
+[The project slack room](https://cd2h.slack.com/messages/C9D9SQWEQ) is accessible to onboarded participants. You will not automatically be added to Slack, please join via the link above.
 
+## Need help with GitHub? See the Managing Tranlational Informatics Projects (MTIP) tutorial
 
+This [tutorial](https://data2health.github.io/mtip-tutorial/lessons/Lesson5.html) covers markdown basics and more.
 
