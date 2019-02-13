@@ -60,7 +60,7 @@ Each project should propose a set of evaluation measures, recorded in a separate
 Each project should have Evaluation-realated issues, that can be tagged with the "evaluation" tag. see [Example Evaluation Issue](https://github.com/data2health/project-repo-template/issues/5)
 
 ## Education
-Each project should propose a set of evaluation measures, recorded in a separate Evaluation Plan file. 
+Each project should propose a set of educational activities, listed separately in the Education Plan file. 
 Please reference any of the following that apply: 
 - Educational resources that will be generated (these can be milestones and/or files in the repo)
 - Educational opportunities (please indicate for which type of learner and how to participate)
