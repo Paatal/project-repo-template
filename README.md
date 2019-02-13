@@ -69,7 +69,7 @@ Please reference any of the following that apply:
 Please include education related issues where relevant, tagged with "education". 
 
 ## Get involved
-We encourage the community to get involved. Please invite any participants to [onboard](http://bit.ly/cd2h-onboarding-form)
+We encourage the community to get involved. 
 
 We require all CD2H projects to have non-CD2H CTSA participants, as CD2H is a CTSA coordinating center. Each project should include an Engagement plan file, example [here](https://github.com/data2health/project-repo-template/blob/master/engagement.md). 
 
