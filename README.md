@@ -36,11 +36,14 @@ See https://github.com/data2health/project-repo-template/tree/master/team.md
 
 ## Repositories
 
-List Github repositories associated with the project. Each project requires at least one repository to house the administrative tracking and public information. You can either add this information to an existing repository, or create a new one and list the associated repositories below. Please be sure to tag any repositories not under the data2health organization with the topic 'data2health'. Project repositories must be public. Some repositories may be private for sensitivity or operational reasons. 
+List all of the Github repositories associated with the project. Each project requires at least one repository to house the project management layer. The "PM layer" constitutes the readme.md, education.md, evaluation.md, engagment.md as well as the milestones and issues.
 
-Example repos:
-- https://github.com/data2health/project-repo-template
-- https://github.com/data2health/operations; private repo editable by members of team @data2health/ops
+You can either add the PM layer to an existing repository, or create a new repository for this and instead list the associated repositories below. Please be sure to tag any related repositories (whether or not they are already under the data2health organization) with the topic 'data2health'. The repository associated with the PM layer must be public. Other repositories associated with the project (where applicable) may be private for reasons of sensitivity or privacy. 
+
+### Example repos:
+This list can be omitted if you have only one repo (one and the same with the PM layer).
+Otherwise, list the other project-associated repos that live inside or outside the data2health GitHub organization.
+Note that only one repo per project needs to contain the PM layer. That is to say, don't add education to every repo in a project etc.
 
 ## Deliverables
 Each project should propose one or more deliverables. Examples: a released code package, a best practices document, a final survey, a set of survey results, etc.
