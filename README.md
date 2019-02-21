@@ -63,7 +63,7 @@ Each project should propose a set of evaluation measures, recorded in a separate
 Each project should have Evaluation-realated issues, that can be tagged with the "evaluation" tag. see [Example Evaluation Issue](https://github.com/data2health/project-repo-template/issues/5)
 
 ## Education
-See [education.md](https://github.com/data2health/project-repo-template/blob/master/education.md) for details.
+See [education.md](https://github.com/data2health/project-repo-template/blob/master/education.md) for details. Each project should have Education-realated issues, that can be tagged with the "education" tag. 
 
 ## Get involved
 We encourage the community to get involved. 
