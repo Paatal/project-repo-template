@@ -3,5 +3,7 @@ Each project should propose a set of educational activities, listed separately i
 - Educational resources that will be generated (these can be milestones and/or files in the repo)
 - Educational opportunities (please indicate for which type of learner and how to participate)
 - Best practices guides
+- Use Cases (very important for abstract projects)
+- Documentation/Tutorials
 
 Please include education related issues where relevant, tagged with "education".
