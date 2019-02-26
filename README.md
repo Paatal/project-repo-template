@@ -81,8 +81,8 @@ Documentation may be natively in GitHub using the wiki or .md files in the appro
 
 [The project Google drive folder](https://drive.google.com/drive/u/0/folders/1vLp-H32KTNobiZF2cK82At90S6dVJNUf) is accessible to onboarded participants. 
 
-## Slack room
-[The project slack room](https://cd2h.slack.com/messages/C9D9SQWEQ) is accessible to onboarded participants. You will not automatically be added to Slack, please join via the link above.
+## Slack channel
+The project slack channel (#yourChannelNameHere) is accessible to onboarded participants. You will *not* automatically be added to Slack; however, we encourage you to please join via the link you are emailed when you onboard (bit.ly/cd2h-onboarding-form).
 
 ## Need help with GitHub? See the Managing Tranlational Informatics Projects (MTIP) tutorial
 
