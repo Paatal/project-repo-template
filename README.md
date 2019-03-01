@@ -82,9 +82,13 @@ Documentation may be natively in GitHub using the wiki or .md files in the appro
 [The project Google drive folder](https://drive.google.com/drive/u/0/folders/1vLp-H32KTNobiZF2cK82At90S6dVJNUf) is accessible to onboarded participants. 
 
 ## Slack channel
-The project slack channel (#yourChannelNameHere) is accessible to onboarded participants. You will *not* automatically be added to Slack; however, we encourage you to please join via the link you are emailed when you onboard (bit.ly/cd2h-onboarding-form).
+The project slack channel [#yourChannelNameHere](link to your channel here) is accessible to onboarded participants. You will *not* automatically be added to Slack; however, we encourage you to please join via the link you are emailed when you onboard (bit.ly/cd2h-onboarding-form).
 
 ## Need help with GitHub? See the Managing Tranlational Informatics Projects (MTIP) tutorial
 
 This [tutorial](https://data2health.github.io/mtip-tutorial/lessons/Lesson5.html) covers markdown basics and more.
+
+## Acknowledgements
+
+Research reported in this work was supported by the National Institutes of Health’s National Center for Advancing Translational Sciences, Grant Number U24TR002306. The content is solely the responsibility of the authors and does not necessarily represent the official views of the National Institutes of Health.
 
