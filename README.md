@@ -63,7 +63,7 @@ Feel free to reference a key milestone here if you want, but don't go into detai
 ## Evaluation
 Each project should propose a set of evaluation measures, recorded in a separate Evaluation Plan file, for example [here](https://github.com/data2health/project-repo-template/blob/master/evaluation.md). These will be reviewed by the Evaluation committee and approved by the Program Directors and NCATS. The Evaluation committee will meet with each Project team leads to assist. 
 
-Each project should have Evaluation-realated issues, that can be tagged with the "evaluation" tag. see [Example Evaluation Issue](https://github.com/data2health/project-repo-template/issues/5)
+Each project should have Evaluation-realated issues, that can be tagged with the "evaluation" label (aka tag). see [Example Evaluation Issue](https://github.com/data2health/project-repo-template/issues/5)
 
 ## Education
 See [education.md](https://github.com/data2health/project-repo-template/blob/master/education.md) for details. Each project should have Education-realated issues, that can be tagged with the "education" tag. 
