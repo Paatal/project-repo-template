@@ -63,17 +63,17 @@ Feel free to reference a key milestone here if you want, but don't go into detai
 ## Evaluation
 Each project should propose a set of evaluation measures, recorded in a separate Evaluation Plan file, for example [here](https://github.com/data2health/project-repo-template/blob/master/evaluation.md). These will be reviewed by the Evaluation committee and approved by the Program Directors and NCATS. The Evaluation committee will meet with each Project team leads to assist. 
 
-Each project should have Evaluation-realated issues, that can be tagged with the "evaluation" label (aka tag). see [Example Evaluation Issue](https://github.com/data2health/project-repo-template/issues/5)
+Each project should have Evaluation-realated issues, that can be labeled with the "evaluation" label (aka tag). see [Example Evaluation Issue](https://github.com/data2health/project-repo-template/issues/5)
 
 ## Education
-See [education.md](https://github.com/data2health/project-repo-template/blob/master/education.md) for details. Each project should have Education-realated issues, that can be tagged with the "education" tag. 
+See [education.md](https://github.com/data2health/project-repo-template/blob/master/education.md) for details. Each project should have Education-realated issues, that can be labeled with the "education" label. 
 
 ## Get involved
 We encourage the community to get involved. 
 
 We require all CD2H projects to have non-CD2H CTSA participants, as CD2H is a CTSA coordinating center. Each project should include an Engagement plan file, example [here](https://github.com/data2health/project-repo-template/blob/master/engagement.md). 
 
-Please tag any engagment related issues with "engagement".
+Please label any engagment related issues with "engagement" label.
 
 ## Working documents
 Documentation may be natively in GitHub using the wiki or .md files in the appropriate folder, or in Google Drive.
