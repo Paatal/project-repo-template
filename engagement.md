@@ -1,7 +1,8 @@
-# Engagement Plan
+## Engagement Plan
 
 Engagement for Competitions is inherent in the usage model as Competitions hosts CTSA-wide competitions (grant applications and reviews)
 Otherwise, technical engagement includes: 
+
     - Piloting the platform
     - Providing feedback (features, documentation, implementation workflows, etc)
     - Contributing to development via open source workflow e.g. GitHub fork and pull request, contributing to documentation
@@ -9,6 +10,7 @@ Otherwise, technical engagement includes:
     - Participating in SAML infrastructure to enable SSO (applies to all cloud-based deployments not just Competitions)
 
 Cultural engagement includes:
+
     - Developing use cases
     - Being a demonstration partner
     - Providing feedback on product design
