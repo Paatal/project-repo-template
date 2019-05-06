@@ -50,6 +50,9 @@ Deliverables are defined as work products accessible on and after completion of 
 
 Each project should propose one or more deliverables. Examples: a released code package, a best practices document, a final survey, a set of survey results, etc.
 
+Each deliverable should include a description (bulleted list) of the functionality of said deliverable.  For example, “The Competitions tool supports recruitment of external reviewers and submission of their reviews”.
+
+
 ## Milestones 
 
 Think of each milestone like a sprint; a collection of issues to guide the development of the work and help us track the progress.
