@@ -46,6 +46,8 @@ Otherwise, list the other project-associated repos that live inside or outside t
 Note that only one repo per project needs to contain the PM layer. That is to say, don't add education to every repo in a project etc.
 
 ## Deliverables
+Deliverables are defined as work products accessible on and after completion of the project, and include documents, code repositories, web services, etc. Typically milestones build towards deliverables, but are not deliverables per se.
+
 Each project should propose one or more deliverables. Examples: a released code package, a best practices document, a final survey, a set of survey results, etc.
 
 ## Milestones 
