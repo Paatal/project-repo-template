@@ -52,9 +52,9 @@ Each project should propose one or more deliverables. Examples: a released code 
 
 Each deliverable should include a description (or bulleted list) of the functionality of said deliverable.  For example, “The Competitions tool supports recruitment of external reviewers and submission of their reviews”.  Information to include:
 
--What will the deliverable (tool, etc) DO? (consider requirements documentation or using the wiki)
--How will deliverable be evaluated? (should be in the evaluation.md file)
--What problem does it address / who does it serve? (this should be at the top of the Read Me)
+[] What will the deliverable (tool, etc) DO? (consider requirements documentation or using the wiki)
+[] How will deliverable be evaluated? (should be in the evaluation.md file)
+[] What problem does it address / who does it serve? (this should be at the top of the Read Me)
 
 
 
